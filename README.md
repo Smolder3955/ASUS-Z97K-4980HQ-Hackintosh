@@ -23,7 +23,7 @@ USB-EHCI交接/XHCI(开)
 
 串口设置-串口(关)
 
-HD Audio Controller(开)-SPDIF Out Type [SPDIF]([HDMI])
+HD Audio Controller(开)-SPDIF Out Type SPDIF-HDMI
 
 监控:
 
