@@ -19,7 +19,11 @@ VT-d(关)
 
 USB-EHCI交接/XHCI(开)
 
-内置设备-串口设置-串口(关)
+内置设备
+
+串口设置-串口(关)
+
+HD Audio Controller(开)-SPDIF Out Type [SPDIF]([HDMI])
 
 监控:
 
