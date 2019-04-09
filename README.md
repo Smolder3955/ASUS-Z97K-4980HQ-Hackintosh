@@ -1,11 +1,10 @@
 # ASUS-Z97K-4980HQ-Hackintosh 
-BGA转LGA
-
-请更新到最新版本BIOS
 
 目前的问题:
 
 HDMI音频无法使用
+
+请更新到最新版本BIOS
 
 建议的BIOS设置:
 
