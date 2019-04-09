@@ -1,11 +1,11 @@
 # ASUS-Z97K-4980HQ-Hackintosh 
 BGA转LGA
 
+请更新到最新版本BIOS
+
 目前的问题:
 
 HDMI音频无法使用
-
-主板USB2.0识别为3.0
 
 建议的BIOS设置:
 
@@ -17,11 +17,7 @@ PCH-SATA模式-AHCI
 
 VT-d(关)
 
-USB-EHCI交接/XHCI(开)
-
 内置设备
-
-串口设置-串口(关)
 
 HD Audio Controller(开)-SPDIF Out Type SPDIF-HDMI
 
@@ -33,6 +29,6 @@ HD Audio Controller(开)-SPDIF Out Type SPDIF-HDMI
 
 快速启动(关)
 
-安全启动-操作系统-其它操作系统-密钥管理-清除默认密钥
+安全启动-操作系统-其它操作系统 密钥管理-清除默认密钥
 
 按F10保存
