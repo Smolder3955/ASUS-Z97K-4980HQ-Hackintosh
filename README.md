@@ -1,5 +1,5 @@
 # ASUS-Z97K-4980HQ-Hackintosh  
-## 请更新到最新版本BIOS
+**请更新到最新版本BIOS**
 ## ~~目前的问题：~~
 * ~~HDMI音频无法使用~~  
 ## 建议的BIOS设置:  
@@ -7,7 +7,7 @@
 * CPU-处理器电源管理-CFG lock(关)   
 * PCH-SATA模式-AHCI   
 * VT-d(关)  
-### 内置设备   
+#### 内置设备
 * HD Audio Controller(开)-SPDIF Out Type SPDIF-HDMI  
 ### 监控:  
 * 处理器/机箱Q-fan根据情况设置(不要自动)  
